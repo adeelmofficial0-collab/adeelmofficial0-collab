@@ -14,7 +14,7 @@ Building reliable, responsive web applications and SaaS interfaces that solve re
 ## 👋 About Me
 
 > - 🔭 **Currently Building:** [Nova](https://nova-saas-three.vercel.app), a modern SaaS landing page (React.js, Tailwind CSS, Framer Motion), and MERN stack projects.
-> - 🌱 **Currently Learning:** Advanced backend concepts, scalable REST API design, and Docker.
+> - 🌱 **Currently Learning:** Advanced backend concepts, scalable REST API design, and authentication & security with JWT.
 > - 🤝 **Looking to Collaborate On:** MERN stack projects, REST APIs, and modern web applications.
 > - 💬 **Ask Me About:** MERN stack, Node.js, Express.js, MongoDB, React.js, and TypeScript.
 
